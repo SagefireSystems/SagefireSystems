@@ -4,6 +4,9 @@
 🜂 <b>SAGEFIRE SYSTEMS</b>
 </h1>
 <p align="center">
+  <img src="https://github.com/SagefireSystems/SagefireSystems/blob/main/ed59c112-9c79-42a0-9ac0-c072e8f319df.png" width="160" alt="SAGEFIRE SYSTEMS Mark">
+</p>
+<p align="center">
 <em>Translating human intention into intelligent systems.</em>  
 </p>
 
