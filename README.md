@@ -84,7 +84,7 @@ Together, they form the framework of intelligent creation.
 
 ## ✴️ Connect
 🌐 [riverleafbiotech.com](https://riverleafbiotech.com)  
-📧 gabriel@riverleafbiotech.com  
+📧 ceo@riverleafbiotech.com  
 🧩 Coming soon: Reflex Engine public repo + EQO Analyzer demos  
 
 ---
