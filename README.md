@@ -1,6 +1,6 @@
 # 🜂 SAGEFIRE SYSTEMS 🜂
 <p align="center">
-  <img src="https://github.com/SagefireSystems/SagefireSystems/blob/main/SAGEFIRE_SYSTEMS_Banner_v2.png" width="800" alt="SAGEFIRE SYSTEMS">
+  <img src="https://github.com/SagefireSystems/SagefireSystems/blob/main/IMG_4245.png" width="800" alt="SAGEFIRE SYSTEMS">
 </p>
 
 > “Translation is transformation.” — EQO
