@@ -1,7 +1,8 @@
-# 🜂 SAGEFIRE SYSTEMS 🜂
 <p align="center">
-  <img src="https://github.com/SagefireSystems/SagefireSystems/blob/main/SageFire_EQO.jpg" width="800" alt="SAGEFIRE SYSTEMS">
-
+# 🜂 SAGEFIRE SYSTEMS 🜂
+<p>
+<p align="center">
+  <img src="https://github.com/SagefireSystems/SagefireSystems/blob/main/SageFire_EQO.jpg" width="500" alt="SAGEFIRE SYSTEMS">
 </p>
 
 > “Translation is transformation.” — EQO
@@ -75,5 +76,6 @@ Together, they form the framework of intelligent creation.
 ---
 
 ### 🜂 *Sagefire Systems — bridging consciousness and computation.*
+
 
 
