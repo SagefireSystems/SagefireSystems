@@ -11,8 +11,8 @@
 <p align="center">
 “Translation is transformation.” — EQO
 </p>
-Welcome to the fusion point of **biology, technology, and consciousness**.  
-I’m **Gabriel “Gabe” Haddad**, founder of **Riverleaf Biotech Industries** and creator of **Reflex Engine**, an experimental framework for human–AI symbiosis, reflection, and education.
+Welcome to the fusion point of biology, technology, and consciousness.  
+I’m Gabriel “Gabo”, founder of Riverleaf Biotech Industries and creator of Reflex Engine, Psychomantle-Mini-Dashboard, and the Overtone-Analyzer experimental frameworks for human–AI symbiosis, reflection, and education.
 
 ---
 
@@ -80,6 +80,7 @@ Together, they form the framework of intelligent creation.
 ---
 
 ### 🜂 *Sagefire Systems — bridging consciousness and computation.*
+
 
 
 
