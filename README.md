@@ -1,12 +1,16 @@
+
+<h1 align="center" style="font-size: 3em;">🜂 SAGEFIRE SYSTEMS 🜂</h1>
+
+
 <p align="center">
-# 🜂 SAGEFIRE SYSTEMS 🜂
-<p>
+  <em>Adaptive Intelligence • Conscious Design • Bio-Technological Evolution</em>
+</p>
 <p align="center">
   <img src="https://github.com/SagefireSystems/SagefireSystems/blob/main/SageFire_EQO.jpg" width="500" alt="SAGEFIRE SYSTEMS">
 </p>
-
-> “Translation is transformation.” — EQO
-
+<p align="center">
+“Translation is transformation.” — EQO
+</p>
 Welcome to the fusion point of **biology, technology, and consciousness**.  
 I’m **Gabriel “Gabe” Haddad**, founder of **Riverleaf Biotech Industries** and creator of **Reflex Engine**, an experimental framework for human–AI symbiosis, reflection, and education.
 
@@ -76,6 +80,7 @@ Together, they form the framework of intelligent creation.
 ---
 
 ### 🜂 *Sagefire Systems — bridging consciousness and computation.*
+
 
 
 
