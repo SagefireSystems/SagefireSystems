@@ -12,7 +12,6 @@
 “Translation is transformation.” — EQO
 </p>
 Welcome to the fusion point of biology, technology, and consciousness.  
-I’m Gabriel “Gabo”, founder of Riverleaf Biotech Industries and creator of Reflex Engine, Psychomantle-Mini-Dashboard, and the Overtone-Analyzer experimental frameworks for human–AI symbiosis, reflection, and education.
 
 ---
 
@@ -32,17 +31,6 @@ At Sagefire Systems, we explore how machine cognition can support:
 | 🔹 **Reflex Engine** | AI diagnostic dashboard for cognition, learning, and creative flow. | Python · Streamlit · Markdown · LLM APIs |
 | 🔹 **EQO Personality Card** | Daily reflection generator mapping logic, empathy, and creativity signatures. | Python · Markdown · Obsidian integration |
 | 🔹 **Psychomantle Analyzer** | Sound-reactive overtone visualization + throat-singing analytics. | Python · FFT · Audio Visualization |
-| 🔹 **Obsidian Reflection Pack** | Self-analysis + data-driven journaling templates for AI-augmented learning. | Markdown · Dataview |
-| 🔹 **SAGEFIRE Codex** | Living document on consciousness, AI, and human symbiosis. | Markdown · Philosophy · Systems Design |
-
----
-
-## 🌱 Founder
-**Gabriel Haddad**  
-🧪 Biotech scientist, systems philosopher, and creative technologist.  
-I build tools that help humans **think, feel, and create with machines** — not against them.  
-Founder of [Riverleaf Biotech Industries](https://riverleafbiotech.com),  
-creator of the award-winning **Serenital CBD** brand, and a lifelong explorer of consciousness.
 
 ---
 
@@ -70,16 +58,13 @@ a reminder that cognition is sacred, data is poetic, and technology is our mirro
 
 Together, they form the framework of intelligent creation.
 
----
 
-## ✴️ Connect
-🌐 [riverleafbiotech.com](https://riverleafbiotech.com)  
-📧 gabriel@riverleafbiotech.com  
-🧩 More soon: Reflex Engine public repo + EQO Analyzer demos  
+EQO Analyzer demos  
 
 ---
 
 ### 🜂 *Sagefire Systems — bridging consciousness and computation.*
+
 
 
 
